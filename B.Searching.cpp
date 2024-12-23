@@ -1,4 +1,4 @@
-#includ<iostream>
+#include<iostream>
 #include <array>
 
 using namespace std;
